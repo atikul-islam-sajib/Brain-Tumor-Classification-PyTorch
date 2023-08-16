@@ -2,6 +2,11 @@
 
 Welcome to the Brain Tumor Classification Project using PyTorch! This project focuses on classifying brain tumor images into different categories using a combination of deep learning techniques. The project employs a Functional API model, K-Fold cross-validation, and Transfer Learning models such as VGG16 and ResNet50.
 
+### Dataset ### 
+
+The dataset is downloaded from Kaggle. 
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
